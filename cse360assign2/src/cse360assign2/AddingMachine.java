@@ -11,7 +11,7 @@ public class AddingMachine {
 	private String history;
 	
 	/**
-	 * this is the constructor method used to create a new object.
+	 * this is the constructor method used to create a new object to call.
 	 */
 	public AddingMachine () {
 		total = 0;  // not needed - included for clarity
